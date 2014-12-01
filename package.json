@@ -1,0 +1,26 @@
+{
+  "name": "demo-uikit-error",
+  "version": "0.0.0",
+  "description": "This app shows a compile error by using r.js through a UIKit project",
+  "private": true,
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "grunt-contrib-requirejs": "~0.4.4",
+    "grunt": "~0.4.5",
+    "grunt-contrib-less": "~0.11.1",
+    "load-grunt-tasks": "~0.4.0",
+    "bower": "~1.3.12",
+    "grunt-bower-requirejs": "~1.1.0",
+    "grunt-cli": "~0.1.13"
+  },
+  "keywords": [
+    "uikit",
+    "demo",
+    "error"
+  ],
+  "author": "Hendrik Schaeidt <he.schaeidt@gmail.com>",
+  "license": "MIT"
+}
